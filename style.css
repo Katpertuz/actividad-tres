@@ -18,6 +18,11 @@ display: flex;
 box-sizing: border-box;
 align-items: center;
 justify-content: space-between;
-
-
+}
+.logotipo{
+margin: 0;
+font-weight: 900;
+font-size: 1.5rem;
+color: #f97316; /* Orange 500 */
+letter-spacing: 2px;
 }
